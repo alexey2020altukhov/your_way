@@ -1,0 +1,257 @@
+public void addAllState() {
+        stateRepository.save(new State("Абхазия", 2));
+        stateRepository.save(new State("Австралия", 2));
+        stateRepository.save(new State("Австрия", 1));
+        stateRepository.save(new State("Азербайджан", 2));
+        stateRepository.save(new State("Албания", 4));
+        stateRepository.save(new State("Алжир", 5));
+        stateRepository.save(new State("Ангола", 4));
+        stateRepository.save(new State("Андорра", 5));
+        stateRepository.save(new State("Аргентина", 2));
+        stateRepository.save(new State("Армения", 1));
+        stateRepository.save(new State("Афганистан", 2));
+        stateRepository.save(new State("Бангладеш", 5));
+        stateRepository.save(new State("Белоруссия", 1));
+        stateRepository.save(new State("Бельгия", 2));
+        stateRepository.save(new State("Болгария", 1));
+        stateRepository.save(new State("Боливия", 4));
+        stateRepository.save(new State("Ботсвана", 5));
+        stateRepository.save(new State("Бразилия", 2));
+        stateRepository.save(new State("Бруней", 5));
+        stateRepository.save(new State("Бутан", 5));
+        stateRepository.save(new State("Ватикан", 5));
+        stateRepository.save(new State("Великобритания", 1));
+        stateRepository.save(new State("Венгрия", 2));
+        stateRepository.save(new State("Венесуэла", 5));
+        stateRepository.save(new State("Вьетнам", 3));
+        stateRepository.save(new State("Габон", 5));
+        stateRepository.save(new State("Гаити", 5));
+        stateRepository.save(new State("Гайана", 5));
+        stateRepository.save(new State("Гамбия", 5));
+        stateRepository.save(new State("Гана", 5));
+        stateRepository.save(new State("Гвинея", 5));
+        stateRepository.save(new State("Германия", 1));
+        stateRepository.save(new State("Гондурас", 5));
+        stateRepository.save(new State("Гренландия", 4));
+        stateRepository.save(new State("Греция", 3));
+        stateRepository.save(new State("Грузия", 1));
+        stateRepository.save(new State("Дания", 2));
+        stateRepository.save(new State("Доминика", 5));
+        stateRepository.save(new State("Доминикана", 5));
+        stateRepository.save(new State("Египет", 4));
+        stateRepository.save(new State("Замбия", 5));
+        stateRepository.save(new State("Зимбабве", 5));
+        stateRepository.save(new State("Израиль", 3));
+        stateRepository.save(new State("Индия", 3));
+        stateRepository.save(new State("Индонезия", 4));
+        stateRepository.save(new State("Иордания", 5));
+        stateRepository.save(new State("Ирак", 4));
+        stateRepository.save(new State("Иран", 4));
+        stateRepository.save(new State("Ирландия", 3));
+        stateRepository.save(new State("Исландия", 2));
+        stateRepository.save(new State("Испания", 2));
+        stateRepository.save(new State("Италия", 3));
+        stateRepository.save(new State("Йемен", 5));
+        stateRepository.save(new State("Казахстан", 1));
+        stateRepository.save(new State("Камбоджа", 5));
+        stateRepository.save(new State("Камерун", 5));
+        stateRepository.save(new State("Канада", 3));
+        stateRepository.save(new State("Катар", 5));
+        stateRepository.save(new State("Кения", 4));
+        stateRepository.save(new State("Киргизия", 1));
+        stateRepository.save(new State("Китай", 2));
+        stateRepository.save(new State("Колумбия", 4));
+        stateRepository.save(new State("Коста Рика", 5));
+        stateRepository.save(new State("Куба", 4));
+        stateRepository.save(new State("Кувейт", 5));
+        stateRepository.save(new State("Лаос", 5));
+        stateRepository.save(new State("Латвия", 2));
+        stateRepository.save(new State("Либерия", 5));
+        stateRepository.save(new State("Ливан", 4));
+        stateRepository.save(new State("Ливия", 4));
+        stateRepository.save(new State("Литва", 2));
+        stateRepository.save(new State("Люксембург", 4));
+        stateRepository.save(new State("Мадагаскар", 4));
+        stateRepository.save(new State("Македония", 4));
+        stateRepository.save(new State("Малайзия", 5));
+        stateRepository.save(new State("Мали", 5));
+        stateRepository.save(new State("Мальдивы", 4));
+        stateRepository.save(new State("Мальта", 5));
+        stateRepository.save(new State("Мексика", 3));
+        stateRepository.save(new State("Мозамбик", 5));
+        stateRepository.save(new State("Молдова", 3));
+        stateRepository.save(new State("Монако", 4));
+        stateRepository.save(new State("Монголия", 3));
+        stateRepository.save(new State("Намибия", 5));
+        stateRepository.save(new State("Нигер", 5));
+        stateRepository.save(new State("Нигерия", 5));
+        stateRepository.save(new State("Нидерланды", 2));
+        stateRepository.save(new State("Никарагуа", 5));
+        stateRepository.save(new State("Новая Зеландия", 4));
+        stateRepository.save(new State("Норвегия", 2));
+        stateRepository.save(new State("Оман", 5));
+        stateRepository.save(new State("Пакистан", 4));
+        stateRepository.save(new State("Палестина", 4));
+        stateRepository.save(new State("Панама", 4));
+        stateRepository.save(new State("Папуа-Новая Гвинея", 5));
+        stateRepository.save(new State("Парагвай", 5));
+        stateRepository.save(new State("Перу", 4));
+        stateRepository.save(new State("Польша", 1));
+        stateRepository.save(new State("Португалия", 2));
+        stateRepository.save(new State("Россия", 1));
+        stateRepository.save(new State("Румыния", 1));
+        stateRepository.save(new State("Самоа", 5));
+        stateRepository.save(new State("Саудовская Аравия", 4));
+        stateRepository.save(new State("Северная Корея", 3));
+        stateRepository.save(new State("Сенегал", 5));
+        stateRepository.save(new State("Сербия", 1));
+        stateRepository.save(new State("Сингапур", 3));
+        stateRepository.save(new State("Сирия", 4));
+        stateRepository.save(new State("Словакия", 2));
+        stateRepository.save(new State("Словения", 2));
+        stateRepository.save(new State("Сомали", 5));
+        stateRepository.save(new State("Судан", 5));
+        stateRepository.save(new State("США", 1));
+        stateRepository.save(new State("Таджикистан", 2));
+        stateRepository.save(new State("Тайланд", 4));
+        stateRepository.save(new State("Тунис", 4));
+        stateRepository.save(new State("Туркменистан", 3));
+        stateRepository.save(new State("Турция", 3));
+        stateRepository.save(new State("Уганда", 5));
+        stateRepository.save(new State("Узбекистан", 1));
+        stateRepository.save(new State("Украина", 1));
+        stateRepository.save(new State("Уругвай", 5));
+        stateRepository.save(new State("Филипины", 5));
+        stateRepository.save(new State("Финляндия", 2));
+        stateRepository.save(new State("Франция", 1));
+        stateRepository.save(new State("Хорватия", 1));
+        stateRepository.save(new State("Чад", 5));
+        stateRepository.save(new State("Чехия", 2));
+        stateRepository.save(new State("Чили", 3));
+        stateRepository.save(new State("Швейцария", 3));
+        stateRepository.save(new State("Швеция", 1));
+        stateRepository.save(new State("Эквадор", 5));
+        stateRepository.save(new State("Эстония", 2));
+        stateRepository.save(new State("Эфиопия", 4));
+        stateRepository.save(new State("ЮАР", 4));
+        stateRepository.save(new State("Южная Корея", 3));
+        stateRepository.save(new State("Ямайка", 4));
+        stateRepository.save(new State("Япония", 2));
+    }
+
+
+        pastRepository.save(new Past(
+                "В прошлой жизни вы были черным котом, который жил в усадьбе известного " +
+                        "промышленника в Петербурге. К вам относились с уважением не только хозяева дома, но и даже их " +
+                        "соседи, несмотря на свою суеверность. Большую часть времени вы спали в своей отдельной комнате. " +
+                        "Помните сказку Пушкина про Лукоморье? «...и днем и ночью кот ученый...» Так вот Александр Сергеевич " +
+                        "был вдохновлен вашим интеллектом и вы являетесь героем его произведения.",
+                "Чёрный кот"
+        ));
+
+        pastRepository.save(new Past(
+                "В прошлой жизни вы были шаманом в племени Шумящей Реки, которое находилось в Центральной Африке. " +
+                        "Лучше вас с духами могли общаться только боги. Сила духа и мудрость, позволила вам дожить до " +
+                        "107 лет. Ваши умения вызывать дождь поражали соплеменников еще несколько веков.",
+                "Шаман"
+        ));
+
+        pastRepository.save(new Past(
+                "В прошлой жизни вы были были главным стражем правителя Китая. Ваша сила и доблесть не раз спасали " +
+                        "правителя от врагов. А внимательность и самоконтроль помогали выявить неприятеля даже в свите " +
+                        "правителя. Поговаривают, что вы могли спать только 3 часа в сутки, да еще и с открытыми глазами.",
+                "Страж"
+        ));
+
+        pastRepository.save(new Past(
+                "В прошлой жизни вы были были дочерью Николая I. И хоть судьба была довольно тяжелой, благодаря " +
+                        "силе характера и стойкости, а также поддержке отца (коррупция была и в те времена) вы смогли " +
+                        "достичь потрясающих результатов. Поместье в 258 душ это вам не шутки.",
+                "Дочь"
+        ));
+
+        pastRepository.save(new Past(
+                "В прошлой жизни вы были были торговцем. Умение находить общий язык с людьми, упорство и чуточку " +
+                        "авантюризма позволили вам стать монополистом в продаже заморских товаров, которые вы привозили " +
+                        "из северной Африки.",
+                "Торговец"
+        ));
+
+        pastRepository.save(new Past(
+                "В прошлой жизни вы были были викингом. В боях правда вы не участвовали, но благодаря вам ваши " +
+                        "собратья одержали немало побед. Вы были главным кузнецом, с золотыми руками и крайне " +
+                        "сообразительным. Оружие и доспехи сделанные вами и вашими подмастерьями не имели себе равных " +
+                        "в течение многих лет. А вы все думали, как это природа наградила вас такой сообразительностью?",
+                "Викинг"
+        ));
+
+        pastRepository.save(new Past(
+                "В прошлой жизни вы были были изобретателем. Жили в маленьком городке на севере США и мастерили " +
+                        "различные инженерные конструкции. Внимательность к деталям, неординарное мышление и находчивость " +
+                        "помогали вам всю жизнь. Как вы думаете Эдисон смог изобрести лампу накаливания? Да просто в одном " +
+                        "из путешествий он был вдохновлен вашими работами. Выходит если бы не ваши способности в прошлой " +
+                        "жизни, то сидели бы мы сейчас без света. Спасибо вам!",
+                "Изобретатель"
+        ));
+
+        pastRepository.save(new Past(
+                "В прошлой жизни вы были были женой короля Франции Людовика XIV, которого называли «Благоразумный». " +
+                        "Как думаете почему его так называли? Да потому что, все советы по управлению государством ему " +
+                        "давали вы. Разве вы еще не заметили в себе такие качества как благоразумие, тонкий ум, " +
+                        "расчетливость (возможно с долей хитрости)?",
+                "Жена"
+        ));
+
+        pastRepository.save(new Past(
+                "В прошлой жизни вы были были сыном простого гончара. По правилам тех времен, вы также должны были " +
+                        "стать ремесленником, но что-то пошло не так. Ваша уверенность, настойчивость и пылкий характер " +
+                        "сделали вас владельцем небольшой элитной мастерской в центре Москвы.",
+                "Мастерская"
+        ));
+
+                fateRepository.save(new Fate(
+                "Ваше истинное предназначение – стать во главе государства. Вы властный и разумный человек. Вам " +
+                        "может казаться, что вы не готовы к такой ответственности, но глубоко внутри понимаете, что " +
+                        "амбиции не позволят согласиться на меньшее.",
+                "Президент"
+        ));
+
+        fateRepository.save(new Fate(
+                "Ваше истинное предназначение - вершить правосудие в роли судьи. Вы очень ответственны, " +
+                        "рассудительны и обладаете редкой способностью отбросить все чувства и личные обиды, когда есть " +
+                        "нужда в хладнокровии и объективности. Все эти качества определяют в вас хорошего судью. " +
+                        "Более того, вы верите в то, что справедливость восторжествует и готовы этому способствовать.",
+                "Судья"
+        ));
+
+        fateRepository.save(new Fate(
+                "Ваше истинное предназначение – стать писателем. Вы человек, который способен словом разжечь огонь " +
+                        "в сердцах людей, повлиять на их чувства, заставить их воспрянуть душой или наоборот, раздосадовать. " +
+                        "Слова обладают особой силой, вам осталось лишь выстроить их в нужном порядке и донести до " +
+                        "тысяч людей ваши мысли.",
+                "Писатель"
+        ));
+
+        fateRepository.save(new Fate(
+                "Ваше истинное предназначение – быть целителем. Возможно, вы еще не осознаете этого, но вам уготована " +
+                        "судьба известного врача. На этом пути пригодится ваш блестящий ум и железная дисциплина. " +
+                        "Вы спасете множество жизней, изобретете собственные методы лечения и найдете лекарство " +
+                        "от серьезной болезни.",
+                "Доктор"
+        ));
+
+        fateRepository.save(new Fate(
+                "Ваше истинное предназначение - быть родителем. Вы, как хороший родитель обладаете большим сердцем и умом. " +
+                        "Вы мудры и рассудительны и вы нуждаетесь в ком-то, кто сможет принять ваши знания. " +
+                        "Быть родителем - это большая ответственность, но в этом нелегком деле вам поможет ваше терпение " +
+                        "и спокойный характер.",
+                "Родитель"
+        ));
+
+        fateRepository.save(new Fate(
+                "Ваше истинное предназначение - стать агентом секретной службы. У вас есть все качества, которые отличают " +
+                        "вас как секретного агента - острый ум и находчивость, более того, вы хорошо разбираетесь в людях, " +
+                        "преданны своему делу и готовы помогать другим. На вашем пути, вы будете помогать ловить самых " +
+                        "разыскиваемых преступников и раскроете подпольную организацию.",
+                "Агент"
+        ));

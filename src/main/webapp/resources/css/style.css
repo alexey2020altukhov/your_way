@@ -1,0 +1,96 @@
+.btn {
+    cursor: pointer;
+    float: right;
+    background: rgba(0, 0, 0, 0.6);
+    text-decoration: none;
+    color: white;
+    position: relative;
+    padding: 1em 1.5em;
+    border: 1px solid;
+    border-image: linear-gradient(180deg, #3fbae0, #33adbb, #3ce4fc, #80faff);
+    border-image-slice: 1;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    transition: .8s cubic-bezier(.165, .84, .44, 1);
+}
+
+.btn:focus{
+    outline: 0;
+}
+
+.form-element {
+    position: relative;
+    margin-bottom: 32px;
+}
+
+.form-input {
+    font-family: "Century Gothic", serif;
+    font-size: 18px;
+    width: 100%;
+    padding: 10px 0 10px 0;
+    border: none;
+    border-bottom: 2px solid #e0e0e0;
+    color: white;
+    background-color: transparent;
+    outline: none;
+}
+
+.form-label {
+    font-family: "Century Gothic", serif;
+    float: right;
+    font-size: 19px;
+    position: absolute;
+    top: -27px;
+    color: #ffffff;
+}
+
+.form-error {
+    font-family: "Century Gothic", serif;
+    outline: none;
+    border: none;
+    float: left;
+    font-size: 18px;
+    background: rgba(0, 0, 0, 0.44);
+    width: 100%;
+    color: #ff0000;
+}
+
+.file-upload-box {
+    position: relative;
+    overflow: hidden;
+    width: 66%;
+    height:30px;
+    line-height:30px;
+    background: rgba(168, 191, 255, 0.35);
+    border-radius: 3px;
+    color: #fff;
+    text-align: center;
+}
+
+.file-upload-box:hover {
+    background: rgba(168, 191, 255, 0.35);
+}
+
+.file-upload-box label {
+    color: white;
+    width: 100%;
+    cursor: pointer;
+}
+
+#file-name {
+    word-break: break-all;
+    padding-bottom: 1%;
+}
+
+
+.file-upload-box input[type="file"]{
+    display: none;
+}
+
+.file-form-wrap{
+    font-family: 'Century Gothic', sans-serif;
+    color: white;
+    width:60%;
+    float: left;
+}
